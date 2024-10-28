@@ -1,0 +1,5 @@
+print("Ejemplo numero 1")
+print("Ejemplo numero 11")
+print("Ejemplo numero 111")
+print("Ejemplo numero 1111)
+print("Ejemplo numero 1111111")
